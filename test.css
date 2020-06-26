@@ -1,0 +1,21 @@
+.face{
+    color: white;
+}
+h1{
+    font-size: 850%;
+}
+body {
+    background-color: skyblue
+  }
+li{
+    list-style: square;
+    margin: 10px;
+    color: whitesmoke;
+}
+a{
+    font-weight: bold;
+}
+.start{
+    font-size: 850%;
+    
+}
